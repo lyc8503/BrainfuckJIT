@@ -19,7 +19,7 @@ using namespace std;
 
 // execute generated asm
 void execute_asm(unsigned char *code, size_t len) {
-    typedef unsigned (*asmFunc)();
+    typedef void (*asmFunc)();
     void *virtualCodeAddress;
 
     // allocate rwx memory
