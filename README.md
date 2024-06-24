@@ -1,1 +1,1 @@
-https://blog.lyc8503.site/post/bf-jit/
+https://blog.lyc8503.net/post/bf-jit/
